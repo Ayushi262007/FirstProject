@@ -1,0 +1,35 @@
+[
+    {
+        "id": "W1",
+        "name": "warehouse A",
+        "products": [
+            {
+                "name": "nackbend",
+                "quantity": 90,
+                "capacity": 90
+            }
+        ]
+    },
+    {
+        "id": "W2",
+        "name": "Warehouse B",
+        "products": [
+            {
+                "name": "table",
+                "quantity": 12,
+                "capacity": 20
+            }
+        ]
+    },
+    {
+        "id": "W3",
+        "name": "Warehouse C",
+        "products": [
+            {
+                "name": "nackbend",
+                "quantity": 27,
+                "capacity": 90
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "product_id": "pd4",
+        "name": "fan",
+        "category": "electronic",
+        "quantity": 200,
+        "unit_price": 150.0,
+        "expiry": "2026-03-25",
+        "supplier": "Cripton"
+    },
+    {
+        "product_id": "pd2",
+        "name": "computer",
+        "category": "electronic",
+        "quantity": 20,
+        "unit_price": 23000.0,
+        "expiry": "2026-03-25",
+        "supplier": "abc"
+    },
+    {
+        "product_id": "pd9",
+        "name": "AC",
+        "category": "electronics",
+        "quantity": 2,
+        "unit_price": 20000.0,
+        "expiry": "2024-03-21",
+        "supplier": "loya"
+    },
+    {
+        "product_id": "pd11",
+        "name": "TV",
+        "category": "electrnic",
+        "quantity": 130,
+        "unit_price": 50000.0,
+        "expiry": "2028-04-12",
+        "supplier": "mi"
+    },
+    {
+        "product_id": "pd5",
+        "name": "table",
+        "category": "furniture",
+        "quantity": 20,
+        "unit_price": 4000.0,
+        "expiry": "2025-06-28",
+        "supplier": "tab"
+    },
+    {
+        "product_id": "pd12",
+        "name": "nackbend",
+        "category": "electrnoics",
+        "quantity": 90,
+        "unit_price": 1000.0,
+        "expiry": "2028-05-12",
+        "supplier": "Baot"
+    },
+    {
+        "product_id": "45",
+        "name": "phone",
+        "category": "electronic",
+        "quantity": 34,
+        "unit_price": 54643.0,
+        "expiry": "2004-3-23",
+        "supplier": "samsung"
+    },
+    {
+        "product_id": "pd0",
+        "name": "speaker",
+        "category": "electronics",
+        "quantity": 89,
+        "unit_price": 6865.0,
+        "expiry": "2015-12-4",
+        "supplier": "xyz"
+    }
+]

@@ -1,0 +1,80 @@
+[
+    {
+        "product_name": "computer",
+        "requested_qty": 20,
+        "status": "Ordered",
+        "date": "2025-06-14"
+    },
+    {
+        "product_name": "TV",
+        "requested_qty": 130,
+        "status": "Pending",
+        "date": "2025-06-14"
+    },
+    {
+        "product_name": "computer",
+        "requested_qty": 20,
+        "status": "Pending",
+        "date": "2025-06-14"
+    },
+    {
+        "product_name": "table",
+        "requested_qty": 20,
+        "status": "Approved",
+        "date": "2025-06-14"
+    },
+    {
+        "product_name": "nackbend",
+        "requested_qty": 90,
+        "status": "Ordered",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "computer",
+        "requested_qty": 20,
+        "status": "Ordered",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "fan",
+        "requested_qty": 200,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "AC",
+        "requested_qty": 1,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "AC",
+        "requested_qty": 30,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "TV",
+        "requested_qty": 500,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "TV",
+        "requested_qty": 500,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "fan",
+        "requested_qty": 200,
+        "status": "Pending",
+        "date": "2025-06-15"
+    },
+    {
+        "product_name": "table",
+        "requested_qty": 20,
+        "status": "Pending",
+        "date": "2025-06-15"
+    }
+]
